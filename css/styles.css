@@ -483,7 +483,8 @@ img {
     align-items: center;
     flex-wrap: wrap;
     gap: 40px;
-
+    position: relative;
+    color: #404bbf;
 }
 
 .container {
@@ -639,4 +640,9 @@ img {
 
 .customers-svg {
     fill: currentColor;
+}
+
+.nav-link {
+    position: relative;
+    color: #404bbf;
 }
