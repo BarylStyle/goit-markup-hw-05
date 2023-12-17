@@ -259,7 +259,7 @@ body {
     transform: translateY(0%);
 }
 
-.link-shadow-box:active .acapit-portfolio {
+.link-shadow-box:focus .acapit-portfolio {
     transform: translateY(0%);
 }
 
